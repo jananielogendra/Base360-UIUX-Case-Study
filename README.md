@@ -63,11 +63,11 @@ This case study demonstrates the complete UX/UI design process—from research a
 ---
 
 ## Case Study
-**[View the Complete UX/UI Case Study PDF](./Case-Study/Base360-AI-SaaS-Landing-Page-UX-Case-Study.pdf)**
+**[View the Complete UX/UI Case Study PDF](Base360-AI-SaaS-Landing-Page-UX-Case-Study.pdf)**
 
 ---
 
-## 🎨 Figma
+## Figma
 
 **Design File**
 https://www.figma.com/design/KYkOMocvKKKb3FP3r4QGLn/Base360---AI-Conversations--Reimagined?node-id=0-1&t=EVsKPWLxO2Mxzgc7-1
@@ -77,14 +77,14 @@ https://www.figma.com/proto/KYkOMocvKKKb3FP3r4QGLn/Base360---AI-Conversations--R
 
 ---
 
-## 🎥 Presentation
+## Presentation
 
 **Loom Walkthrough**
 https://www.loom.com/share/8b1e0f43ec82435099889fcf00ac8908
 
 ---
 
-## 👩‍💻 Designer
+## Designer
 
 **Jananie Logendra**
 
